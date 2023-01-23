@@ -1,6 +1,6 @@
-# Toy
+# TOY
 ## Introduction
-`Toy` is a basic `2D` game with terminal animation in `C` & `BGI`.<br>
+`TOY` is a basic `2D` game with terminal animation in `C` & `BGI`.<br>
 By `@lxndroc` `'96`.
 ## Elements
 `1` `keyboard-controlled humanoid`<br>
