@@ -48,6 +48,6 @@ Middle and bottom floors, 1 humanoid and 1 monster on middle floor, 1 monster on
 * `D`: Moves 1 step right.<br>
 * `X`: Gets and places the ladder when on middle floor.
 ## Demo Game
-[![Demo Game](https://github.com/lxndroc/mini-projects/blob/main/TOY_image.png)](https://github.com/lxndroc/mini-projects/blob/main/TOY_demo.mp4)
+![Demo Game](https://github.com/lxndroc/mini-projects/blob/main/TOY_demo.gif)
 ## Newer C++ Version & Graphics Files
 [Pinecone](https://github.com/pinecone441248/pinecone-game/tree/main/ConsoleApplication1)
